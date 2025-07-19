@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rohan Pawar</h1>
 <h3 align="center">Welcome to my coading journey</h3>
-👨🏻‍🎓B.TECH. UnderGrad student sharing about my journey and learnings<br>🌱 I’m currently learning Python for AI/ML and DSA<br>💬 Ask me about Python<br>📫 How to reach me: connect.rohanpawar@gmail.com<br>
+👨🏻‍🎓B.TECH. UnderGrad student sharing about my journey and learnings<br>🌱 I’m currently learning Python for AI/ML and DSA<br>💬 Ask me about Python<br>📫 How to reach me: contact.rohanpawar@gmail.com<br>
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rohannfr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohanpawar23) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RohanPawar2304) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:connect.rohanpawar@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rohannfr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohanpawar23) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RohanPawar2304) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact.rohanpawar@gmail.com) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
