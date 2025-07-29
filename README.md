@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohan Pawar</h1>
 <h3 align="center">Welcome to my coading journey</h3>
-👨🏻‍🎓B.TECH. UnderGrad student sharing about my journey and learnings<br>🌱 I’m currently learning Python for AI/ML and DSA<br>💬 Ask me about Python<br>📫 How to reach me: contact.rohanpawar@gmail.com<br>
+👨🏻‍🎓B.TECH. UnderGrad student sharing about journey and my learnings<br>🌱 I’m currently learning Python for AI/ML and DSA<br>💬 Ask me about Python<br>📫 How to reach me: contact.rohanpawar@gmail.com<br>
 
 
 ## 🌐 Socials:
