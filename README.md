@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif)
+![MasterHead](https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif)
 <h1 align="center">Hi 👋, I'm Rohan Pawar</h1>
 <h3 align="center">Welcome to my coading journey</h3>
 👨🏻‍🎓B.TECH. UnderGrad student sharing about journey and my learnings<br>🌱 I’m currently learning Python for AI/ML and DSA<br>💬 Ask me about Python<br>📫 How to reach me: contact.rohanpawar@gmail.com<br>
