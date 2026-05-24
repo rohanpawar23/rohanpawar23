@@ -4,7 +4,7 @@
 
 **AI/DS undergrad · ML learner · Open source curious**
 
-2nd year B.E. Artificial Intelligence & Data Science · RGIT Mumbai
+2nd year B.E. Artificial Intelligence & Data Science · RGIT Mumbai<br>
 AI & ML Program · Daksh Gurukul, IIT Guwahati
 
 </div>
