@@ -1,11 +1,8 @@
 <div align="center">
 
 # Hey, I'm Rohan 👋
-
-**AI/DS undergrad · ML learner · Open source curious**
-
-2nd year B.E. Artificial Intelligence & Data Science · RGIT Mumbai<br>
-AI & ML Program · Daksh Gurukul, IIT Guwahati
+**Student · AI & DS Enthusiast**
+2nd year B.E. Artificial Intelligence & Data Science
 
 </div>
 
@@ -13,35 +10,54 @@ AI & ML Program · Daksh Gurukul, IIT Guwahati
 
 ### What I'm about
 
-I'm an AI & DS student genuinely curious about how data can be shaped into systems that think. Alongside my degree, I'm pursuing a structured AI & ML program under Daksh Gurukul, IIT Guwahati — because I wanted to go deeper than the classroom.
+I'm driven by curiosity about AI & ML and the process of building things from the ground up. Right now, I'm learning the core ML algorithms and the math behind them. As a hands-on project, I built a **Weather Data Analysis Tool** using Python and NumPy — it generates synthetic weather data and produces statistical reports, with a reproducible design and zero external dependencies.
 
-My focus right now: understanding ML from the ground up — the math, the algorithms, and the implementation.
+---
+
+### 🚀 Tech Stack & Skills
+
+**💻 Programming Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+
+**🤖 AI/ML & Data Science**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![LibROSA](https://img.shields.io/badge/LibROSA-FF6F00?style=flat&logo=python&logoColor=white)
+
+**🎨 Frontend Development**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**🗄️ Databases & Cloud**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+**🚀 DevOps & Deployment**
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+
+**🛠️ Development Tools**
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 ---
 
 ### Currently learning
 
-**Module 2 — Machine Learning Foundations** *(Daksh Gurukul, IIT Guwahati)*
-Core ML concepts, algorithms, and hands-on implementation.
+**Foundations of Machine Learning**
 
----
-
-### What I've covered so far
-
-```
-Math & Theory     →  Linear Algebra · Calculus · Statistics · Probability · Optimization
-Programming       →  Python · NumPy · Pandas · Matplotlib · Seaborn · OpenCV
-Data              →  Image · Audio · Text · Database Interfacing
-Tools             →  MySQL · LibROSA
-```
-
----
-
-### What's next
-
-- Completing ML foundations and building models from scratch
-- Contributing to open source in the AI / data space
-- Going deep on backend systems that power intelligent applications
+Building a strong base in core ML concepts before going further.
 
 ---
 
